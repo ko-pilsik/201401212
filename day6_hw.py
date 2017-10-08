@@ -1,5 +1,6 @@
 import turtle as t
                        # 짱구의 부리부리 댄스를 다 같이 그려봅시다.
+  
 t.shape("turtle")
 t.pensize(3)
 t.bgcolor("white")
